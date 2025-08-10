@@ -6,36 +6,40 @@ author_profile: true
 
 # Projects
 
-Here are some of my personal and professional projects. Feel free to explore them.
+Here are some of my personal and academic projects. Feel free to explore them.
 
-## Project 1
+## Modeling Fluid Flow in a Pipe Using PINNs (Fall 2024)
 
-![Project 1](https://via.placeholder.com/600x400?text=Project+1)
+![Modeling Fluid Flow in a Pipe Using PINNs](https://via.placeholder.com/600x400?text=Fluid+Flow+PINNs)
 
-Brief description of Project 1. Add more details here, such as what the project does and any technologies used.
+Developed a physics‑informed neural network (PINN) model to simulate fluid flow in a pipe, capturing complex boundary conditions with machine learning.
 
-[Link to Project 1](https://github.com/yourusername/project1)
+## Manual Gearbox Design for Crane (Spring 2025)
 
-## Project 2
+![Manual Gearbox Design for Crane](https://via.placeholder.com/600x400?text=Manual+Gearbox+Crane)
 
-![Project 2](https://via.placeholder.com/600x400?text=Project+2)
+Designed a manual gearbox system for a crane, optimizing gear ratios and mechanical efficiency to handle heavy loads.
 
-Brief description of Project 2. Add more details here, such as what the project does and any technologies used.
+## Kalman Filter for State Estimation in DC Motor Dynamics (Spring 2023)
 
-[Link to Project 2](https://github.com/yourusername/project2)
+![Kalman Filter for State Estimation in DC Motor Dynamics](https://via.placeholder.com/600x400?text=Kalman+Filter+DC+Motor)
 
-## Project 3
+Implemented a Kalman filter algorithm to estimate states and control the dynamics of a DC motor, improving accuracy and response time.
 
-![Project 3](https://via.placeholder.com/600x400?text=Project+3)
+## Fluid Dynamics Simulation Using Ansys Fluent (Fall 2024)
 
-Brief description of Project 3. Add more details here, such as what the project does and any technologies used.
+![Fluid Dynamics Simulation Using Ansys Fluent](https://via.placeholder.com/600x400?text=Ansys+Fluent+Simulation)
 
-[Link to Project 3](https://github.com/yourusername/project3)
+Conducted computational fluid dynamics simulations in Ansys Fluent to analyze flow patterns and optimize system performance.
 
-## Interactive Portfolio Website
+## Particle Motion Simulation with MSC Adams and MATLAB (Fall 2023)
 
-![Interactive Portfolio Website](https://via.placeholder.com/600x400?text=Sample+Project)
+![Particle Motion Simulation with MSC Adams and MATLAB](https://via.placeholder.com/600x400?text=MSC+Adams+MATLAB)
 
-An interactive personal portfolio website that showcases skills, projects, blog posts, and contact information. Built with HTML, CSS, and JavaScript, the site features responsive design and smooth animations.
+Simulated particle motion using MSC Adams and MATLAB to model dynamic behavior and validate theoretical predictions.
 
-[View project documentation (PDF)](https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf)
+## Water Distribution Simulation for a University Using WaterGEMS (Spring 2025)
+
+![Water Distribution Simulation for a University Using WaterGEMS](https://via.placeholder.com/600x400?text=WaterGEMS+Simulation)
+
+Utilized Bentley WaterGEMS to model and optimize a university's water distribution network, ensuring efficient and reliable service.
